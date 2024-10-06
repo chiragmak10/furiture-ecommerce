@@ -10,7 +10,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 
-<img src="https://github.com/user-attachments/assets/bd1f3a15-ac6c-4da4-aa6e-fcd0ff6d8388" alt="screenshot" style="border: 2px solid black; padding: 5px;"/>
 
-
+![screencapture-furniture-ecommerce-sage-vercel-app-2024-10-06-20_11_11](https://github.com/user-attachments/assets/33daf01d-97de-4248-8025-2276837035c5)
 
